@@ -1,5 +1,5 @@
 <?php
-
+phpinfo();
    include 'components/connect.php';
 
    session_start();
